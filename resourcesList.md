@@ -13,5 +13,7 @@
 * [OpenCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
 * [Pickle](https://docs.python.org/3/library/pickle.html)
 * [Os](https://docs.python.org/3/library/os.html)
+* [XlsxWriter](https://xlsxwriter.readthedocs.io/)
 
 ### Python General Web Resources
+* [OOP in Python](https://realpython.com/python3-object-oriented-programming/)
